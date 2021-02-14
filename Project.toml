@@ -4,6 +4,7 @@ authors = ["dojt <dotheis.work@gmail.com>"]
 version = "0.1.0"
 
 [deps]
+Clang = "40e3b903-d033-50b4-a0cc-940c62c95e31"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 Quadmath = "be4d8f0f-7fa4-5f49-b795-2f01399ab2dd"
